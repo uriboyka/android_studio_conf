@@ -1,18 +1,18 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="Git">
-      <project id="FaceTracker" values="config.ssh.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1480401450214" />
-      <project id="asmlibrary-android" values="config.ssh.enabled,data.remote.branches.count.1,config.warn.about.crlf.enabled,data.local.branches.count.1,config.force.push.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT" collectionTime="1480296622259" />
-      <project id="FaceDetectCamera" values="config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,data.remote.branches.count.1,config.force.push.enabled,data.remotes.in.project.1,config.ssh.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled" collectionTime="1490182841001" />
+      <project id="FaceTracker" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT" collectionTime="1480401450214" />
+      <project id="asmlibrary-android" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,data.remote.branches.count.1,config.save.policy.STASH,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,data.local.branches.count.1,data.remotes.in.project.1,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled" collectionTime="1480296622259" />
+      <project id="FaceDetectCamera" values="data.remote.branches.count.1,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.ssh.enabled,data.local.branches.count.1,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.force.push.enabled,config.push.update.all.roots.enabled" collectionTime="1490182841001" />
     </group>
     <group name="vcs">
       <project id="asmlibrary-android" values="Git" collectionTime="1480296622163" />
       <project id="FaceDetectCamera" values="Git" collectionTime="1490182840931" />
     </group>
     <group name="file-type">
-      <project id="FaceTracker" values="JAVA,XML,IDEA_MODULE,PLAIN_TEXT,AIDL,Properties,ProGuard File,Images,Groovy,ARCHIVE" collectionTime="1480401450212" />
-      <project id="asmlibrary-android" values="Properties,XML,IDEA_MODULE,JAVA,PLAIN_TEXT,UNKNOWN,Images,AIDL,ObjectiveC,ARCHIVE,Groovy,YAML" collectionTime="1480296622227" />
-      <project id="FaceDetectCamera" values="Images,PLAIN_TEXT,ARCHIVE,Groovy,XML,JAVA,ProGuard File,Properties,IDEA_MODULE" collectionTime="1490182840975" />
+      <project id="FaceTracker" values="Images,Groovy,ARCHIVE,XML,JAVA,PLAIN_TEXT,IDEA_MODULE,AIDL,Properties,ProGuard File" collectionTime="1480401450212" />
+      <project id="asmlibrary-android" values="ObjectiveC,IDEA_MODULE,Images,XML,YAML,UNKNOWN,Groovy,JAVA,ARCHIVE,PLAIN_TEXT,Properties,AIDL" collectionTime="1480296622227" />
+      <project id="FaceDetectCamera" values="JAVA,IDEA_MODULE,Images,ProGuard File,PLAIN_TEXT,Properties,ARCHIVE,Groovy,XML" collectionTime="1490182840975" />
     </group>
     <group name="run-configuration-type">
       <project id="FaceTracker" values="AndroidRunConfigurationType" collectionTime="1480401450193" />
@@ -21,13 +21,13 @@
     </group>
     <group name="language-level">
       <project id="FaceTracker" values="JDK_1_7" collectionTime="1480401450213" />
-      <project id="asmlibrary-android" values="JDK_1_7,JDK_1_8" collectionTime="1480296622254" />
-      <project id="FaceDetectCamera" values="JDK_1_8,JDK_1_7" collectionTime="1490182840995" />
+      <project id="asmlibrary-android" values="JDK_1_8,JDK_1_7" collectionTime="1480296622254" />
+      <project id="FaceDetectCamera" values="JDK_1_7,JDK_1_8" collectionTime="1490182840995" />
     </group>
     <group name="frameworks">
-      <project id="FaceTracker" values="java-gradle,android-gradle,android" collectionTime="1480401450193" />
-      <project id="asmlibrary-android" values="java-gradle,android,android-gradle" collectionTime="1480296622163" />
-      <project id="FaceDetectCamera" values="android-gradle,java-gradle,android" collectionTime="1490182840931" />
+      <project id="FaceTracker" values="android,android-gradle,java-gradle" collectionTime="1480401450193" />
+      <project id="asmlibrary-android" values="android,java-gradle,android-gradle" collectionTime="1480296622163" />
+      <project id="FaceDetectCamera" values="android,java-gradle,android-gradle" collectionTime="1490182840931" />
     </group>
     <group name="module type">
       <project id="FaceTracker" values="JAVA_MODULE" collectionTime="1480401450193" />
@@ -37,17 +37,17 @@
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="execute.AndroidRunConfigurationType.Run" count="69" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="72" />
       <entry feature="execute.GradleRunConfiguration.Run" count="4" />
       <entry feature="ide.settings.Appearance" count="2" />
       <entry feature="ide.settings.Auto_Import" count="1" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
       <entry feature="ide.settings.Font" count="2" />
       <entry feature="ide.settings.Genymotion" count="1" />
-      <entry feature="ide.settings.Plugins" count="4" />
+      <entry feature="ide.settings.Plugins" count="5" />
       <entry feature="ide.settings.Project_Structure" count="1" />
       <entry feature="ide.settings.Vim_Emulation" count="2" />
-      <entry feature="ideaapp.started" count="48" />
+      <entry feature="ideaapp.started" count="50" />
       <entry feature="terminal.win" count="8" />
       <entry feature="tips.of.the.day.next" count="7" />
       <entry feature="welcome.screen.WelcomeScreen.Configure" count="17" />

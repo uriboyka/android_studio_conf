@@ -3,12 +3,29 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1494915988552">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/home/try322/MyApplication4/build.gradle" timestamp="1494921364174">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="E:/home/try322/MyApplication3/app/src/main/java/com/mycompany/myapplication/MainActivity.java" timestamp="1494575252146">
         <mark key="'" line="24" column="8" />
         <mark key="[" line="32" column="40" />
         <mark key="]" line="32" column="39" />
         <mark key="^" line="32" column="39" />
         <mark key="." line="32" column="39" />
+      </file>
+      <file name="E:/home/try322/MyApplication4/app/build.gradle" timestamp="1494921523181">
+        <mark key="[" line="29" column="34" />
+      </file>
+      <file name="E:/home/try322/MyApplication4/app/src/main/java/com/mycompany/myapplication/MainActivity.java" timestamp="1494921150399">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="29" column="36" />
+        <mark key="." line="29" column="36" />
+        <mark key="^" line="29" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -17,6 +34,33 @@
       <jump line="24" column="8" filename="E:/home/try322/MyApplication3/app/src/main/java/com/mycompany/myapplication/MainActivity.java" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">QEJpbmRWaWV3KFIuaWQuYnV0dG9uKQpCdXR0b24gYnV0dG9uOwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QEJpbmRWaWV3KFIuaWQuYnV0dG9uKQpCdXR0b24gYnV0dG9uOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">QEJpbmRWaWV3KFIuaWQuKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBAQmluZFZpZXcoUi5pZC5idXR0b24pCiAgICAgICAgQnV0dG9uIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAnaHR0cDovL21hdmVuLm9zY2hpbmEubmV0L2NvbnRlbnQvZ3JvdXBzL3B1YmxpYy8nIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAnaHR0cDovL21hdmVuLm9zY2hpbmEubmV0L2NvbnRlbnQvZ3JvdXBzL3B1YmxpYy8nIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
+      </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
       </register>
@@ -57,6 +101,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

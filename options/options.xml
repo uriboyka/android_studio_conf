@@ -6,7 +6,7 @@
     <property name="AndroidInitConfigurator.V2" value="true" />
     <property name="android-component-compatibility-check" value="1494896223999" />
     <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop&#10;E:/home/try322/CoolMarket&#10;E:/home/try322/tablayoutviewpager&#10;E:/asWorkspace/MyApplication4&#10;E:/home/try322/TabUsingViewPager&#10;E:/home/try322/AnimationsDemo&#10;E:/agora/Agora_signaling_1_1_1_2&#10;E:/asWorkspace/Side-Menu.Android&#10;D:/Program Files/Genymobile/Genymotion&#10;E:/agora/Agora_signaling_1_1_1_2/Android/demo/myapp1&#10;E:/agora/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android&#10;E:/home/face/android-vision/visionSamples/FaceTracker&#10;E:/home/face/FaceDetectCamera&#10;E:/home/asm/asmlibrary-android" />
-    <property name="lastTip" value="55" />
+    <property name="lastTip" value="57" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
@@ -26,7 +26,7 @@
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
     <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
     <property name="NlScreenMode" value="SCREEN_ONLY" />
-    <property name="PLUGIN_FILTER" value="vim&#10;sync&#10;gradle&#10;gra&#10;Genym" />
+    <property name="PLUGIN_FILTER" value="ButterKnife&#10;vim&#10;sync&#10;gradle&#10;gra" />
     <property name="KEY_GENYMOTION_PATH" value="D:\Program Files\Genymobile\Genymotion" />
     <property name="SAVED_COMPANY_DOMAIN" value="mycompany.com" />
     <property name="gradle.runner.text.console_str" value="true" />

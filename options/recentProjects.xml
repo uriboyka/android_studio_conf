@@ -2,6 +2,7 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="E:\home\try322\MyApplication4" />
         <option value="E:\home\try322\MyApplication3" />
         <option value="E:\home\try322\CoolMarket" />
         <option value="E:\home\try322\MyApplication2" />
@@ -25,10 +26,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="E:\home\try322\MyApplication3" />
+        <option value="E:\home\try322\MyApplication4" />
       </list>
     </option>
-    <option name="lastPath" value="E:\home\try322\MyApplication3" />
+    <option name="lastPath" value="E:\home\try322\MyApplication4" />
     <option name="additionalInfo">
       <map>
         <entry key="E:\agora\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android">
@@ -213,7 +214,18 @@
               <option name="build" value="AI-162.3934792" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="D:\Program Files\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1494898731551" />
+              <option name="projectOpenTimestamp" value="1494915390739" />
+              <option name="buildTimestamp" value="1492704000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\home\try322\MyApplication4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.3934792" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="D:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1494919266068" />
               <option name="buildTimestamp" value="1492704000000" />
             </RecentProjectMetaInfo>
           </value>
