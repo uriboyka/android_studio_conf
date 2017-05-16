@@ -1,0 +1,32 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>prevSettingWidth</find>
+      <find>rgbs</find>
+      <find>google</find>
+      <find>handler</find>
+      <find>configureCamera</find>
+      <find>facesBitmap</find>
+      <find>mFaceView</find>
+      <find>bitmap</find>
+      <find>bmp</find>
+      <find>imagePreviewAdapter</find>
+      <find>RtcEngine</find>
+      <find>setChannelProfile</find>
+      <find>enableVideo</find>
+      <find>WorkerThread</find>
+      <find>ensureRtcEngineReadyLock</find>
+      <find>login(</find>
+      <find>login2</find>
+      <find>login</find>
+      <find>channelJoin</find>
+      <find>calcToken</find>
+      <find>ActionBarPolicy</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\agora\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app\src\main\java</dir>
+      <dir>E:\agora\Agora_Native_SDK_for_Android_FULL\samples\OpenLive_Android\app</dir>
+      <dir>E:\agora\Agora_signaling_1_1_1_2</dir>
+    </dirStrings>
+  </component>
+</application>

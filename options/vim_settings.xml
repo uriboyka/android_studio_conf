@@ -1,0 +1,63 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="E:/home/try322/MyApplication3/app/src/main/java/com/mycompany/myapplication/MainActivity.java" timestamp="1494575252146">
+        <mark key="'" line="24" column="8" />
+        <mark key="[" line="32" column="40" />
+        <mark key="]" line="32" column="39" />
+        <mark key="^" line="32" column="39" />
+        <mark key="." line="32" column="39" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="32" column="21" filename="E:/home/try322/MyApplication3/app/src/main/java/com/mycompany/myapplication/MainActivity.java" />
+      <jump line="31" column="24" filename="E:/home/try322/MyApplication3/app/src/main/java/com/mycompany/myapplication/MainActivity.java" />
+      <jump line="24" column="8" filename="E:/home/try322/MyApplication3/app/src/main/java/com/mycompany/myapplication/MainActivity.java" />
+    </jumps>
+    <registers>
+      <register name=":" type="4">
+        <text>set keep-english-in-normal</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxBcnJheUxpc3RcPg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxBcnJheUxpc3RcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxBcnJheUxpc3RcPg==</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxBcnJheUxpc3RcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set keep</entry>
+        <entry>set keep-english-in-normal</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

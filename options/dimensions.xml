@@ -1,0 +1,39 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="808" y="374" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="1418" y="485" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="896" y="315" />
+    <location key="deploy.picker.dialog.0.0.1920.1080" x="489" y="251" />
+    <location key="#Project_Structure.0.0.1920.1080" x="639" y="210" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="475" y="181" />
+    <location key="SettingsEditor.0.0.1920.1080" x="435" y="216" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1018" y="669" />
+    <location key="#Unnamed.0.0.1920.1080" x="747" y="129" />
+    <location key="findTextDialog.0.0.1920.1080" x="714" y="231" />
+    <location key="#Browse_Repositories.0.0.0.0" x="664" y="469" />
+    <location key="SettingsEditor.0.0.0.0" x="516" y="336" />
+    <location key="#Plugins.0.0.1920.1080" x="552" y="74" />
+    <location key="#app.0.0.1920.1080" x="773" y="126" />
+    <location key="AndroidCreateResourceDirectoryDialog.0.0.1920.1080" x="957" y="312" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="904" y="291" />
+    <location key="AndroidProcessChooserDialog.0.0.1920.1080" x="1157" y="274" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="794" y="195" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="143" y="105" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1920.1080" x="808" y="168" />
+    <location key="#Notifications.0.0.1920.1080" x="709" y="238" />
+    <location key="#Vim_Emulation.0.0.1920.1080" x="709" y="230" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="984" height="237" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="984" height="237" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="984" height="237" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="984" height="237" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="984" height="237" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="984" height="237" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="984" height="237" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="984" height="237" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="838" height="122" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" width="1092" height="749" />
+    <size key="javadoc.popup.0.0.1920.1080" width="520" height="187" />
+    <size key="lint.notification.0.0.1920.1080" width="814" height="515" />
+    <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" width="568" height="800" />
+  </component>
+</application>
